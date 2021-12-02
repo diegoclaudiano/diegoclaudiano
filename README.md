@@ -1,7 +1,6 @@
 <h1 align="center"> Olá! 👋 Eu sou o Diêgo Claudiano 😉 </h1> 
 
-<p align="center"> - 🌱 Focado em evoluir cada vez mais no desenvolvimento web.</p>
-<p align="center"> - Atualmente estou estudando Javascript </p>
+<p align="center"> - Focado em evoluir cada vez mais no desenvolvimento web.</p>
 
 <div align="center">
   <a href="https://github.com/diegoclaudiano">
@@ -23,5 +22,5 @@
   
 <div align="center">
     <a href = "mailto:dgsilva.230493@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/diegoclaudiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>

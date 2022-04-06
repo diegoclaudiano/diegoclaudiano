@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! 👋 Eu sou o Diêgo Claudiano 😉 </h1> 
 
-<p align="center"> - Focado em evoluir cada vez mais no desenvolvimento web.</p>
+<p align="center"> - Focado em evoluir cada vez mais na tecnologia com desenvolvimento de software.</p>
 
 <div align="center">
   <a href="https://github.com/diegoclaudiano">
